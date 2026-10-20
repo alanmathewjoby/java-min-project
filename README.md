@@ -1,1 +1,1 @@
-# java-min-project
+# java-mini-project
